@@ -2,6 +2,7 @@ package org.launchcode.techjobsmvc.controllers;
 
 import org.launchcode.techjobsmvc.models.Job;
 import org.launchcode.techjobsmvc.models.JobData;
+import org.launchcode.techjobsmvc.models.JobField;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
